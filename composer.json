@@ -1,0 +1,12 @@
+{
+    "name": "example-app",
+    "require": {
+        "cakephp/cakephp": "2.8.*",
+        "cakephp/debug_kit":"^2.2.0",
+        "fabpot/goutte": "^3.1",
+	"xiaosier/libweibo":"dev-master"
+    },
+    "config": {
+        "vendor-dir": "Vendor/"
+    }
+}

@@ -1,0 +1,5 @@
+myapp/tmp/*
+Plugin/*
+Vendor/*
+!.empty
+!empty
